@@ -3,5 +3,8 @@
     padding: 0;
 }
 h1.zag-cos {
+    margin: auto;
+    width: 300px;
     text-align: center;
+    background: red;
 }
